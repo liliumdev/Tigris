@@ -1,0 +1,1 @@
+The Merge.bat file merges the DLLs into one Tigris_m.exe file. The _m suffix stands for merged. This Tigris release does not require the DLL files to be present in the same folder, as they have been merged in the .exe file itself.
